@@ -1,0 +1,19 @@
+
+public class IfKeywordAndCodeBlocks {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		boolean gameOver = true;
+		int score = 5000;
+		int levelCompleted = 5;
+		int bonus = 100;
+		
+		if(score==4000) {
+			System.out.println("your score was 5000");
+			System.out.println("this was executed");
+		
+		}
+	}
+
+}

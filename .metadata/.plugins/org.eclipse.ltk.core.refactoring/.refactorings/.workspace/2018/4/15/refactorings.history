@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;KeywordsAndExpressions&apos;" deleteContents="true" description="Delete resource &apos;KeywordsAndExpressions&apos;" element1="/KeywordsAndExpressions" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1523252225916"/>&#x0A;<refactoring comment="Delete resource &apos;StatementsWhiteSpaceAndIndenting&apos;" deleteContents="true" description="Delete resource &apos;StatementsWhiteSpaceAndIndenting&apos;" element1="/StatementsWhiteSpaceAndIndenting" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1523254096413"/>
+</session>

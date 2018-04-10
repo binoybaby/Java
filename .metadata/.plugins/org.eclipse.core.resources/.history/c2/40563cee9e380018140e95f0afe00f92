@@ -1,0 +1,11 @@
+
+public class NewStrings {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		string myString = "This is a string";
+		System.out.println(myString);
+	}
+
+}
